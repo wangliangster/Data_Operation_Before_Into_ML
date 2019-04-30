@@ -1,7 +1,7 @@
-# Data Operation Tutorial Before into Machine Learning
-This is a practice guide for data operating, which is a indispensable skills to feed data into Machine Learning Model.
+# Data Operation Tutorial, For Feed Data into Machine Learning Model Preparation
+This is a practice guide for data operating, which is an indispensable skill to feed data into Machine Learning Model.
 
-As we know, before feed data into Neuarl Network model, you need handle various different format inputs and make sure the interface to your model is proper, sometimes make me crazy, inspired by proam's original summary, hope this helpful for you as well. 
+As we know, before feed data into Neuarl Network model, you need to handle various kinds of different input format, and make sure the interface to your model is properly, sometimes make me crazy, inspired by proam's original summary, hope this archive is helpful for you as well. 
 
 
 ### Environment 
